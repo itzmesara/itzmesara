@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @itzmesara
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning first year Computer science Engineering
-- 💞️ I’m looking to collaborate on amazon
-- 📫 How to reach me 9344733652 or pablo_sara06 in -ig
-- 🌈 i am gay
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
   
 <!---
 itzmesara/itzmesara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
